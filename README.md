@@ -1,5 +1,3 @@
-Here's a sample README for the GitHub repository [OpenAI Function Calling](https://github.com/rajurayhan/openai-function-calling):
-
 ---
 
 # OpenAI Function Calling
